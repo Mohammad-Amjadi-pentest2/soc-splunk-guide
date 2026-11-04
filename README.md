@@ -1,8 +1,8 @@
 # 🛡️ SOC Splunk Reference Guide
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-00e5c3?style=flat-square&logo=github)](https://mohammd-amjadi-pentest2.github.io/soc-splunk-guide/)
-[![Scenarios](https://img.shields.io/badge/Scenarios-10-blue?style=flat-square)](https://mohammd-amjadi-pentest2.github.io/soc-splunk-guide/)
-[![SPL Queries](https://img.shields.io/badge/SPL%20Queries-20%2B-green?style=flat-square)](https://mohammd-amjadi-pentest2.github.io/soc-splunk-guide/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-00e5c3?style=flat-square&logo=github)](https://mohammad-amjadi-pentest2.github.io/soc-splunk-guide/)
+[![Scenarios](https://img.shields.io/badge/Scenarios-10-blue?style=flat-square)](https://mohammad-amjadi-pentest2.github.io/soc-splunk-guide/)
+[![SPL Queries](https://img.shields.io/badge/SPL%20Queries-20%2B-green?style=flat-square)](https://mohammad-amjadi-pentest2.github.io/soc-splunk-guide/)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Mapped-red?style=flat-square)](https://attack.mitre.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
@@ -13,7 +13,7 @@ Covers 10 core attack scenarios with production-ready SPL queries, operational r
 
 ## 🌐 Live Site
 
-**[https://mohammd-amjadi-pentest2.github.io/soc-splunk-guide/](https://mohammd-amjadi-pentest2.github.io/soc-splunk-guide/)**
+**[https://mohammad-amjadi-pentest2.github.io/soc-splunk-guide/](https://mohammad-amjadi-pentest2.github.io/soc-splunk-guide/)**
 
 ---
 
